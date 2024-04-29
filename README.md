@@ -1,0 +1,1 @@
+```jupyter server list``` in bash to get the url. 
