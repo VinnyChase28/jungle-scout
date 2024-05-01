@@ -1,27 +1,23 @@
 ```jupyter server list``` in bash to get the url. 
 
+Access the notebooks here: http://c1c45073b194.ngrok.app/?token=bf9b5fb4d7965aeeaa66e404a244d552f8a239663b459c3b
 
-1. Sales and Revenue Trends
-Monthly Revenue Trends by Brand: Line chart displaying monthly revenue trends for each brand.
-Unit Sales Growth Trend by Brand: Bar chart showing the percentage growth in unit sales for each brand over time.
-Monthly Revenue and Unit Sales Seasonality Analysis: Line charts showing seasonal variations in revenue and unit sales.
+1. Sales Performance Dashboard
+Visualization: A comprehensive dashboard that features line charts and bar charts.
+Purpose: To track sales performance over time (weekly, monthly) across various products and brands. This dashboard helps in monitoring trends, making real-time business decisions, and adjusting sales strategies based on performance metrics.
 
-3. Price Analysis
-Price Elasticity of Demand: Scatter plot examining the relationship between price changes and unit sales.
-Price Trends vs. Sales Volume: Line chart analyzing how price trends affect sales volume.
-Impact of Price on Best Seller Rank: Scatter plot analyzing how changes in price influence the Best Seller Rank.
+2. Brand Share Visualization
+Visualization: Pie charts or treemaps.
+Purpose: To display the market share of different brands within the cat food segment. This visual helps stakeholders understand the competitive landscape, identifying leading brands and their market dominance, which is crucial for benchmarking and strategic positioning.
 
-4. Review and Quality Impact
-Average Reviews vs. Revenue: Dual-axis line chart showing how average reviews correlate with revenue.
-Review Count Impact on Unit Sales: Scatter plot analyzing the impact of the number of reviews on unit sales.
-Revenue Per Review: Scatter plot to calculate revenue per review to assess the potential value of each review.
+3. Consumer Demand and Interest Graph
+Visualization: Line charts overlaying historical search volume with sales data.
+Purpose: To correlate search trends with actual sales to evaluate how well product availability aligns with consumer interest. This analysis is vital for assessing the impact of SEO and advertising efforts on sales, helping refine marketing strategies and product visibility.
 
-5. Market and Competitive Analysis
-Sales Performance by Subcategories: Bar chart detailing sales data across different subcategories within the pet food segment.
-3P vs. 1P Sales Trends: Line chart showing trends in sales from third-party versus first-party sellers over time.
+4. Product Lifecycles and Seasonality Analysis
+Visualization: Bar charts or line charts analyzing sales data over time.
+Purpose: To examine the lifecycle of products including launches, discontinuations, and seasonal sales fluctuations. This information is crucial for planning product launches, managing inventory, optimizing marketing during various seasons, and deciding when to phase out products.
 
-6. Search and Market Interest
-Historical Search Volume Trends: Line chart showing trends in search volume for "cat food" over time.
-
-7. Quality and Listing Analysis
-Revenue vs. Listing Quality Score: Scatter plot to correlate listing quality scores with revenue, to see if a higher score correlates with higher sales.
+5. Customer Review Analysis
+Visualization: Scatter plots or box plots correlating review sentiment and volume with sales figures.
+Purpose: To analyze customer feedback in relation to sales performance. This insight allows businesses to identify product strengths and weaknesses, understand customer satisfaction levels, and highlight product features that are impacting consumer buying decisions.
