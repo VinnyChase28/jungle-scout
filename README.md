@@ -1,3 +1,5 @@
+This project was to practice plotting with plotly & python. Lot's of stuff needs to be more modular and re-used. 
+
 ```jupyter server list``` in bash to get the url. 
 
 Access the notebooks here: http://c1c45073b194.ngrok.app/?token=bf9b5fb4d7965aeeaa66e404a244d552f8a239663b459c3b
